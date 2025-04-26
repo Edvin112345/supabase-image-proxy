@@ -1,1 +1,0 @@
-# supabase-image-proxy
